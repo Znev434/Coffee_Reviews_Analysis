@@ -1,0 +1,16 @@
+# 🚫 Ignorowanie środowiska wirtualnego
+.venv/
+venv/
+__pycache__/
+.idea/
+
+# 🚫 Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# 🚫 Pliki tymczasowe Streamlit
+.streamlit/
+
+# 🚫 Pliki tymczasowe logów
+*.log
+*.pyc
