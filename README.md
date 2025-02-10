@@ -71,13 +71,13 @@ streamlit run dashboard.py
 
 ## 📊 **Przykłady wizualizacji**  
 🔹 **Sentyment recenzji:**  
-![Sentyment](sentyment_chart.png)  
+![Sentyment](visualizations/sentyment_chart.png)
 
 🔹 **Zmiany ocen w czasie:**  
-![Oceny](rating_over_time.png)  
+![Oceny](visualizations/rating_over_time.png)  
 
 🔹 **Najczęściej używane słowa:**  
-![Wordcloud](wordcloud.png)  
+![Wordcloud](visualizations/wordcloud.png)
 
 ---
 
